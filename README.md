@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-  <a href="https://hmosorio.com.br" target="_blank" rel="noopener noreferrer">
+  <a href="https://hmosorio.com.br">
     <img src="https://img.shields.io/badge/Portfólio-0B1220?style=for-the-badge&logo=googlechrome&logoColor=2DD9B4" />
   </a>
-  <a href="https://www.linkedin.com/in/hugosorio/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/hugosorio/">
     <img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=2DD9B4" />
   </a>
-  <a href="https://github.com/HMOsorios" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/HMOsorios">
     <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=2DD9B4" />
   </a>
 </p>
