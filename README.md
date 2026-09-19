@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Portfólio-2DD9B4?style=for-the-badge&logo=googlechrome&logoColor=0B1220" />
   </a>
   <a href="https://www.linkedin.com/in/hugosorio/">
-    <img src="https://img.shields.io/badge/LinkedIn-2DD9B4?style=for-the-badge&logo=linkedin&logoColor=0B1220" />
+    <img src="https://img.shields.io/badge/LinkedIn-2DD9B4?style=for-the-badge&logo=linkedin&logoColor=0B1220&logoWidth=20" />
   </a>
   <a href="https://github.com/HMOsorios">
     <img src="https://img.shields.io/badge/GitHub-2DD9B4?style=for-the-badge&logo=github&logoColor=0B1220" />
