@@ -20,7 +20,7 @@
 
 ### 🧑‍💻 Sobre mim
 
-- 🏥 Desenvolvo o **Hub SMS Digital**, plataforma de integração da rede municipal de saúde de Marabá-PA (cadastro único, regulação hospitalar/NIR, almoxarifado, PACS/VNA, prescrição eletrônica)
+- 🏥 Desenvolvedor da SMS de Marabá-PA, responsável técnico pela definição da stack tecnológica, estruturação de bancos de dados e arquitetura de diretórios de novos projetos de gestão.
 - 🚀 Crio produtos próprios sob a marca **HMOsorio Dev** (SaaS, sistemas white-label, hub de pagamentos multi-gateway)
 - 💼 Atendo clientes privados com sistemas sob medida (transporte, e-commerce, plataformas educacionais)
 - 🤖 Uso fluxo de desenvolvimento assistido por IA (Claude Code) com metodologia *documentation-first*
