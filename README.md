@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://hmosorio.com.br">
+  <a href="https://sites.hmosorio.com.br">
     <img src="https://img.shields.io/badge/Portfólio-2DD9B4?style=for-the-badge&logo=googlechrome&logoColor=0B1220" />
   </a>
   <a href="https://www.linkedin.com/in/hugosorio/">
